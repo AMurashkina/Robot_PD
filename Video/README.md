@@ -1,8 +1,8 @@
 # Ссылка на видео сборок
-## https://workbench.grabcad.com/workbench/projects/gcWliP4UqGNCkQDZKpX5bYVdUgzNVLJQlEwilvMNvYf7qS?#/folder/9672862
+## https://drive.google.com/drive/u/0/folders/1wR9fOvxB4m_DDinmpddxbd-JDafC88MT
 
 # Ссылка на видео создания анимации
-## https://workbench.grabcad.com/workbench/projects/gcWliP4UqGNCkQDZKpX5bYVdUgzNVLJQlEwilvMNvYf7qS?#/folder/9672872
+## https://drive.google.com/drive/u/0/folders/1Nt-QZ9fv-DcjG6zXxlb-whiVu4lqUCLN
 
 # Ссылка на видео анимации
-## https://workbench.grabcad.com/workbench/projects/gcWliP4UqGNCkQDZKpX5bYVdUgzNVLJQlEwilvMNvYf7qS?#/folder/9669403
+## https://drive.google.com/drive/u/0/folders/13YC0CgbETOt3o1-0cxM9NxgyO9XRbE10
